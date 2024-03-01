@@ -21,7 +21,7 @@ To create an executable for your operating system (Mac/Windows/Linux), run the f
 npm run make
 
 ## Contact
-Feel free to reach out to me for any fixes or questions. You can find more of my projects on my website or GitHub.
+Feel free to reach out to me for any fixes or questions. You can find more of my projects on my <a href="https://www.ahasanulkarim.xyz/">Website</a> or <a href="https://github.com/AhasanKarim">Github</a>.
 
 
 
